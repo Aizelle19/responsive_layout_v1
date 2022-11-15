@@ -111,7 +111,6 @@ main {
 .portfolio {
     padding-top: 28px;
     margin-bottom: 42px;
-    background: radial-gradient(transparent);
 }
 
 .portfolio__title {
@@ -166,7 +165,6 @@ footer {
 .footer-nav__title {
     font-weight: 800;
     font-size: 1.5em;
-    text-shadow:rgb(245, 248, 246);
 }
 
 footer ul li a {
